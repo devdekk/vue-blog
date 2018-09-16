@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "app-blog-executor",
+    "name": "app-blog",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "pprciggjv6"
+  }
+}
